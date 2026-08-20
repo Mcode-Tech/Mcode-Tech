@@ -22,6 +22,7 @@
 
 - Basé à Strasbourg.
 - 2e année de BUT Info.
+- Compte Github récent, projets rapatriés d'un ancien compte.
   
 ---
 
