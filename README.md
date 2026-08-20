@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
-  <a href="https://tonsite.dev">
+  <a href="https://social.mtdv.me/videos/oqF9fbgvBX">
     <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
